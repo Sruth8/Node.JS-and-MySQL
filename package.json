@@ -1,0 +1,25 @@
+{
+  "name": "Node.JS-and-MySQL",
+  "version": "1.0.0",
+  "description": "HW10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sruth8/Node.JS-and-MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sruth8/Node.JS-and-MySQL/issues"
+  },
+  "homepage": "https://github.com/Sruth8/Node.JS-and-MySQL#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5"
+  }
+}
