@@ -13,7 +13,7 @@ To get started
 
 Here is a Gif of how this app works.
 
-
+![giphy](https://user-images.githubusercontent.com/46385062/58362858-386fe080-7e6a-11e9-8f02-1c2cd507ccf7.gif)
 
 
 
